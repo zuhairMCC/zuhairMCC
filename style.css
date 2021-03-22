@@ -1,0 +1,42 @@
+h2{
+            font-size: 40px;
+            text-align: center;
+            padding: 30px;
+            color: #cea21e;
+       }
+
+       h3{
+            font-size: 30px;
+            color: #f6921e;
+       }
+
+       p{
+            font-size: 22px;
+       }
+
+       #mainContent{
+            width: 80%;
+            margin: 0 auto;
+       }
+
+       .darkSec{
+            background-color: #20344f;
+       }
+
+       .lightSec{
+            background-color: #516176;
+       }
+
+       .lightSec, .darkSec{
+            color: white;
+            padding: 20px;
+            border-style: solid;
+            border-color: white;
+       }
+       .icon{
+            width: 9%;
+            float: left;
+            padding: 30px;
+            padding-top: 15px;
+            padding-right: 20px;
+       }
